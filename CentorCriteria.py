@@ -9,7 +9,7 @@ win.geometry("550x520")
 
 
 def display_about():
-    messagebox.showinfo('About', "*Usually pharyngitis is viral and doesn't require antibiotic treatment. \n \n**The Centor Score predicts which patients will have higher likelihood of streptococcal infections. \n \n***This helps determine which patients to test and lowers overprescription rates of antibiotics.")
+    messagebox.showinfo('About', "*Usually pharyngitis is viral and doesn't require antibiotic treatment. \n \n**The Centor Score predicts which patients will have higher likelihood of streptococcal infections. \n \n***This helps determine which patients to test and reduces overprescription of antibiotics.")
 
 menubar = Menu(win)
 
